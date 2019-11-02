@@ -1,0 +1,5899 @@
+fileFormatVersion: 2
+guid: 47a36764168b1f44aa0926f5cdf817b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DJ_Attack060
+  - first:
+      213: 21300002
+    second: DJ_Attack061
+  - first:
+      213: 21300004
+    second: DJ_Attack062
+  - first:
+      213: 21300006
+    second: DJ_Attack063
+  - first:
+      213: 21300008
+    second: DJ_Attack064
+  - first:
+      213: 21300010
+    second: DJ_Attack065
+  - first:
+      213: 21300012
+    second: DJ_Attack066
+  - first:
+      213: 21300014
+    second: DJ_Attack067
+  - first:
+      213: 21300016
+    second: DJ_Attack068
+  - first:
+      213: 21300018
+    second: DJ_Attack069
+  - first:
+      213: 21300020
+    second: DJ_Attack070
+  - first:
+      213: 21300022
+    second: DJ_Attack071
+  - first:
+      213: 21300024
+    second: DJ_Attack072
+  - first:
+      213: 21300026
+    second: DJ_Attack073
+  - first:
+      213: 21300028
+    second: DJ_Attack074
+  - first:
+      213: 21300030
+    second: DJ_Attack075
+  - first:
+      213: 21300032
+    second: DJ_Attack076
+  - first:
+      213: 21300034
+    second: DJ_Attack077
+  - first:
+      213: 21300036
+    second: DJ_Attack078
+  - first:
+      213: 21300038
+    second: DJ_Attack079
+  - first:
+      213: 21300040
+    second: DJ_Attack080
+  - first:
+      213: 21300042
+    second: DJ_Attack081
+  - first:
+      213: 21300044
+    second: DJ_Attack082
+  - first:
+      213: 21300046
+    second: DJ_Attack083
+  - first:
+      213: 21300048
+    second: DJ_Attack084
+  - first:
+      213: 21300050
+    second: DJ_Attack085
+  - first:
+      213: 21300052
+    second: DJ_Attack086
+  - first:
+      213: 21300054
+    second: DJ_Attack087
+  - first:
+      213: 21300056
+    second: DJ_Attack088
+  - first:
+      213: 21300058
+    second: DJ_Attack089
+  - first:
+      213: 21300060
+    second: DJ_Attack090
+  - first:
+      213: 21300062
+    second: DJ_Attack091
+  - first:
+      213: 21300064
+    second: DJ_Attack092
+  - first:
+      213: 21300066
+    second: DJ_Attack093
+  - first:
+      213: 21300068
+    second: DJ_Attack094
+  - first:
+      213: 21300070
+    second: DJ_Attack095
+  - first:
+      213: 21300072
+    second: DJ_Attack096
+  - first:
+      213: 21300074
+    second: DJ_Attack097
+  - first:
+      213: 21300076
+    second: DJ_Attack098
+  - first:
+      213: 21300078
+    second: DJ_Attack099
+  - first:
+      213: 21300080
+    second: DJ_Attack100
+  - first:
+      213: 21300082
+    second: DJ_Attack101
+  - first:
+      213: 21300084
+    second: DJ_Attack102
+  - first:
+      213: 21300086
+    second: DJ_Attack103
+  - first:
+      213: 21300088
+    second: DJ_Attack104
+  - first:
+      213: 21300090
+    second: DJ_Attack105
+  - first:
+      213: 21300092
+    second: DJ_Attack106
+  - first:
+      213: 21300094
+    second: DJ_Attack107
+  - first:
+      213: 21300096
+    second: DJ_Attack108
+  - first:
+      213: 21300098
+    second: DJ_Attack109
+  - first:
+      213: 21300100
+    second: DJ_Attack110
+  - first:
+      213: 21300102
+    second: DJ_Attack111
+  - first:
+      213: 21300104
+    second: DJ_Attack112
+  - first:
+      213: 21300106
+    second: DJ_Attack113
+  - first:
+      213: 21300108
+    second: DJ_Attack114
+  - first:
+      213: 21300110
+    second: DJ_Attack115
+  - first:
+      213: 21300112
+    second: DJ_Attack116
+  - first:
+      213: 21300114
+    second: DJ_Attack117
+  - first:
+      213: 21300116
+    second: DJ_Attack118
+  - first:
+      213: 21300118
+    second: DJ_Attack119
+  - first:
+      213: 21300120
+    second: DJ_Hit00
+  - first:
+      213: 21300122
+    second: DJ_Hit01
+  - first:
+      213: 21300124
+    second: DJ_Hit02
+  - first:
+      213: 21300126
+    second: DJ_Hit03
+  - first:
+      213: 21300128
+    second: DJ_Hit04
+  - first:
+      213: 21300130
+    second: DJ_Hit05
+  - first:
+      213: 21300132
+    second: DJ_Hit06
+  - first:
+      213: 21300134
+    second: DJ_Hit07
+  - first:
+      213: 21300136
+    second: DJ_Hit08
+  - first:
+      213: 21300138
+    second: DJ_Hit09
+  - first:
+      213: 21300140
+    second: DJ_Hit10
+  - first:
+      213: 21300142
+    second: DJ_Hit11
+  - first:
+      213: 21300144
+    second: DJ_Hit12
+  - first:
+      213: 21300146
+    second: DJ_Hit13
+  - first:
+      213: 21300148
+    second: DJ_Hit14
+  - first:
+      213: 21300150
+    second: DJ_Hit15
+  - first:
+      213: 21300152
+    second: DJ_Hit16
+  - first:
+      213: 21300154
+    second: DJ_Hit17
+  - first:
+      213: 21300156
+    second: DJ_Hit18
+  - first:
+      213: 21300158
+    second: DJ_Hit19
+  - first:
+      213: 21300160
+    second: DJ_Hit20
+  - first:
+      213: 21300162
+    second: DJ_Hit21
+  - first:
+      213: 21300164
+    second: DJ_Hit22
+  - first:
+      213: 21300166
+    second: DJ_Hit23
+  - first:
+      213: 21300168
+    second: DJ_Hit24
+  - first:
+      213: 21300170
+    second: DJ_Hit25
+  - first:
+      213: 21300172
+    second: DJ_Hit26
+  - first:
+      213: 21300174
+    second: DJ_Hit27
+  - first:
+      213: 21300176
+    second: DJ_Hit28
+  - first:
+      213: 21300178
+    second: DJ_Hit29
+  - first:
+      213: 21300180
+    second: DJ_Hit30
+  - first:
+      213: 21300182
+    second: DJ_Hit31
+  - first:
+      213: 21300184
+    second: DJ_Hit32
+  - first:
+      213: 21300186
+    second: DJ_Hit33
+  - first:
+      213: 21300188
+    second: DJ_Hit34
+  - first:
+      213: 21300190
+    second: DJ_Hit35
+  - first:
+      213: 21300192
+    second: DJ_Hit36
+  - first:
+      213: 21300194
+    second: DJ_Hit37
+  - first:
+      213: 21300196
+    second: DJ_Hit38
+  - first:
+      213: 21300198
+    second: DJ_Hit39
+  - first:
+      213: 21300200
+    second: DJ_Hit40
+  - first:
+      213: 21300202
+    second: DJ_Hit41
+  - first:
+      213: 21300204
+    second: DJ_Hit42
+  - first:
+      213: 21300206
+    second: DJ_Hit43
+  - first:
+      213: 21300208
+    second: DJ_Hit44
+  - first:
+      213: 21300210
+    second: DJ_Hit45
+  - first:
+      213: 21300212
+    second: DJ_Hit46
+  - first:
+      213: 21300214
+    second: DJ_Hit47
+  - first:
+      213: 21300216
+    second: DJ_Hit48
+  - first:
+      213: 21300218
+    second: DJ_Hit49
+  - first:
+      213: 21300220
+    second: DJ_Hit50
+  - first:
+      213: 21300222
+    second: DJ_Hit51
+  - first:
+      213: 21300224
+    second: DJ_Hit52
+  - first:
+      213: 21300226
+    second: DJ_Hit53
+  - first:
+      213: 21300228
+    second: DJ_Hit54
+  - first:
+      213: 21300230
+    second: DJ_Hit55
+  - first:
+      213: 21300232
+    second: DJ_Hit56
+  - first:
+      213: 21300234
+    second: DJ_Hit57
+  - first:
+      213: 21300236
+    second: DJ_Hit58
+  - first:
+      213: 21300238
+    second: DJ_Hit59
+  - first:
+      213: 21300240
+    second: DJ_Hit60
+  - first:
+      213: 21300242
+    second: DJ_Idle060
+  - first:
+      213: 21300244
+    second: DJ_Idle061
+  - first:
+      213: 21300246
+    second: DJ_Idle062
+  - first:
+      213: 21300248
+    second: DJ_Idle063
+  - first:
+      213: 21300250
+    second: DJ_Idle064
+  - first:
+      213: 21300252
+    second: DJ_Idle065
+  - first:
+      213: 21300254
+    second: DJ_Idle066
+  - first:
+      213: 21300256
+    second: DJ_Idle067
+  - first:
+      213: 21300258
+    second: DJ_Idle068
+  - first:
+      213: 21300260
+    second: DJ_Idle069
+  - first:
+      213: 21300262
+    second: DJ_Idle070
+  - first:
+      213: 21300264
+    second: DJ_Idle071
+  - first:
+      213: 21300266
+    second: DJ_Idle072
+  - first:
+      213: 21300268
+    second: DJ_Idle073
+  - first:
+      213: 21300270
+    second: DJ_Idle074
+  - first:
+      213: 21300272
+    second: DJ_Idle075
+  - first:
+      213: 21300274
+    second: DJ_Idle076
+  - first:
+      213: 21300276
+    second: DJ_Idle077
+  - first:
+      213: 21300278
+    second: DJ_Idle078
+  - first:
+      213: 21300280
+    second: DJ_Idle079
+  - first:
+      213: 21300282
+    second: DJ_Idle080
+  - first:
+      213: 21300284
+    second: DJ_Idle081
+  - first:
+      213: 21300286
+    second: DJ_Idle082
+  - first:
+      213: 21300288
+    second: DJ_Idle083
+  - first:
+      213: 21300290
+    second: DJ_Idle084
+  - first:
+      213: 21300292
+    second: DJ_Idle085
+  - first:
+      213: 21300294
+    second: DJ_Idle086
+  - first:
+      213: 21300296
+    second: DJ_Idle087
+  - first:
+      213: 21300298
+    second: DJ_Idle088
+  - first:
+      213: 21300300
+    second: DJ_Idle089
+  - first:
+      213: 21300302
+    second: DJ_Idle090
+  - first:
+      213: 21300304
+    second: DJ_Idle091
+  - first:
+      213: 21300306
+    second: DJ_Idle092
+  - first:
+      213: 21300308
+    second: DJ_Idle093
+  - first:
+      213: 21300310
+    second: DJ_Idle094
+  - first:
+      213: 21300312
+    second: DJ_Idle095
+  - first:
+      213: 21300314
+    second: DJ_Idle096
+  - first:
+      213: 21300316
+    second: DJ_Idle097
+  - first:
+      213: 21300318
+    second: DJ_Idle098
+  - first:
+      213: 21300320
+    second: DJ_Idle099
+  - first:
+      213: 21300322
+    second: DJ_Idle100
+  - first:
+      213: 21300324
+    second: DJ_Idle101
+  - first:
+      213: 21300326
+    second: DJ_Idle102
+  - first:
+      213: 21300328
+    second: DJ_Idle103
+  - first:
+      213: 21300330
+    second: DJ_Idle104
+  - first:
+      213: 21300332
+    second: DJ_Idle105
+  - first:
+      213: 21300334
+    second: DJ_Idle106
+  - first:
+      213: 21300336
+    second: DJ_Idle107
+  - first:
+      213: 21300338
+    second: DJ_Idle108
+  - first:
+      213: 21300340
+    second: DJ_Idle109
+  - first:
+      213: 21300342
+    second: DJ_Idle110
+  - first:
+      213: 21300344
+    second: DJ_Idle111
+  - first:
+      213: 21300346
+    second: DJ_Idle112
+  - first:
+      213: 21300348
+    second: DJ_Idle113
+  - first:
+      213: 21300350
+    second: DJ_Idle114
+  - first:
+      213: 21300352
+    second: DJ_Idle115
+  - first:
+      213: 21300354
+    second: DJ_Idle116
+  - first:
+      213: 21300356
+    second: DJ_Idle117
+  - first:
+      213: 21300358
+    second: DJ_Idle118
+  - first:
+      213: 21300360
+    second: DJ_Idle119
+  - first:
+      213: 21300362
+    second: DJ_Walk060
+  - first:
+      213: 21300364
+    second: DJ_Walk061
+  - first:
+      213: 21300366
+    second: DJ_Walk062
+  - first:
+      213: 21300368
+    second: DJ_Walk063
+  - first:
+      213: 21300370
+    second: DJ_Walk064
+  - first:
+      213: 21300372
+    second: DJ_Walk065
+  - first:
+      213: 21300374
+    second: DJ_Walk066
+  - first:
+      213: 21300376
+    second: DJ_Walk067
+  - first:
+      213: 21300378
+    second: DJ_Walk068
+  - first:
+      213: 21300380
+    second: DJ_Walk069
+  - first:
+      213: 21300382
+    second: DJ_Walk070
+  - first:
+      213: 21300384
+    second: DJ_Walk071
+  - first:
+      213: 21300386
+    second: DJ_Walk072
+  - first:
+      213: 21300388
+    second: DJ_Walk073
+  - first:
+      213: 21300390
+    second: DJ_Walk074
+  - first:
+      213: 21300392
+    second: DJ_Walk075
+  - first:
+      213: 21300394
+    second: DJ_Walk076
+  - first:
+      213: 21300396
+    second: DJ_Walk077
+  - first:
+      213: 21300398
+    second: DJ_Walk078
+  - first:
+      213: 21300400
+    second: DJ_Walk079
+  - first:
+      213: 21300402
+    second: DJ_Walk080
+  - first:
+      213: 21300404
+    second: DJ_Walk081
+  - first:
+      213: 21300406
+    second: DJ_Walk082
+  - first:
+      213: 21300408
+    second: DJ_Walk083
+  - first:
+      213: 21300410
+    second: DJ_Walk084
+  - first:
+      213: 21300412
+    second: DJ_Walk085
+  - first:
+      213: 21300414
+    second: DJ_Walk086
+  - first:
+      213: 21300416
+    second: DJ_Walk087
+  - first:
+      213: 21300418
+    second: DJ_Walk088
+  - first:
+      213: 21300420
+    second: DJ_Walk089
+  - first:
+      213: 21300422
+    second: DJ_Walk090
+  - first:
+      213: 21300424
+    second: DJ_Walk091
+  - first:
+      213: 21300426
+    second: DJ_Walk092
+  - first:
+      213: 21300428
+    second: DJ_Walk093
+  - first:
+      213: 21300430
+    second: DJ_Walk094
+  - first:
+      213: 21300432
+    second: DJ_Walk095
+  - first:
+      213: 21300434
+    second: DJ_Walk096
+  - first:
+      213: 21300436
+    second: DJ_Walk097
+  - first:
+      213: 21300438
+    second: DJ_Walk098
+  - first:
+      213: 21300440
+    second: DJ_Walk099
+  - first:
+      213: 21300442
+    second: DJ_Walk100
+  - first:
+      213: 21300444
+    second: DJ_Walk101
+  - first:
+      213: 21300446
+    second: DJ_Walk102
+  - first:
+      213: 21300448
+    second: DJ_Walk103
+  - first:
+      213: 21300450
+    second: DJ_Walk104
+  - first:
+      213: 21300452
+    second: DJ_Walk105
+  - first:
+      213: 21300454
+    second: DJ_Walk106
+  - first:
+      213: 21300456
+    second: DJ_Walk107
+  - first:
+      213: 21300458
+    second: DJ_Walk108
+  - first:
+      213: 21300460
+    second: DJ_Walk109
+  - first:
+      213: 21300462
+    second: DJ_Walk110
+  - first:
+      213: 21300464
+    second: DJ_Walk111
+  - first:
+      213: 21300466
+    second: DJ_Walk112
+  - first:
+      213: 21300468
+    second: DJ_Walk113
+  - first:
+      213: 21300470
+    second: DJ_Walk114
+  - first:
+      213: 21300472
+    second: DJ_Walk115
+  - first:
+      213: 21300474
+    second: DJ_Walk116
+  - first:
+      213: 21300476
+    second: DJ_Walk117
+  - first:
+      213: 21300478
+    second: DJ_Walk118
+  - first:
+      213: 21300480
+    second: DJ_Walk119
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DJ_Attack060
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2065
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack061
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2029
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack062
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2027
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack063
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2027
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack064
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2006
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack065
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1995
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack066
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1995
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack067
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1994
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack068
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1983
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack069
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1982
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack070
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1981
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack071
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1981
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack072
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1961
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack073
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 1961
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack074
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1921
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack075
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1921
+        width: 181
+        height: 367
+      alignment: 9
+      pivot: {x: 0.3756906, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack076
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1859
+        width: 203
+        height: 367
+      alignment: 9
+      pivot: {x: 0.33497536, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack077
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2228
+        width: 222
+        height: 366
+      alignment: 9
+      pivot: {x: 0.3063063, y: 0.76775956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack078
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2123
+        width: 233
+        height: 366
+      alignment: 9
+      pivot: {x: 0.2918455, y: 0.76775956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack079
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 1859
+        width: 236
+        height: 367
+      alignment: 9
+      pivot: {x: 0.2881356, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack080
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2073
+        width: 237
+        height: 366
+      alignment: 9
+      pivot: {x: 0.28691983, y: 0.76775956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack081
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1704
+        width: 237
+        height: 367
+      alignment: 9
+      pivot: {x: 0.28691983, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack082
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1697
+        width: 237
+        height: 367
+      alignment: 9
+      pivot: {x: 0.28691983, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack083
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1658
+        width: 234
+        height: 367
+      alignment: 9
+      pivot: {x: 0.2905983, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1754
+        width: 226
+        height: 367
+      alignment: 9
+      pivot: {x: 0.30088496, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack085
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1696
+        width: 215
+        height: 367
+      alignment: 9
+      pivot: {x: 0.31627908, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack086
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1637
+        width: 203
+        height: 367
+      alignment: 9
+      pivot: {x: 0.33497536, y: 0.76566756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack087
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1242
+        width: 192
+        height: 368
+      alignment: 9
+      pivot: {x: 0.35416666, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack088
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1222
+        width: 182
+        height: 368
+      alignment: 9
+      pivot: {x: 0.37362638, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack089
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1222
+        width: 174
+        height: 368
+      alignment: 9
+      pivot: {x: 0.3908046, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack090
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1182
+        width: 169
+        height: 368
+      alignment: 9
+      pivot: {x: 0.40236688, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack091
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1182
+        width: 167
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4071856, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack092
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 550
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack093
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 548
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack094
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 503
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack095
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 502
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack096
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1181
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack097
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 501
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack098
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 501
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack099
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1120
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack100
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1120
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack101
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 1120
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1015
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 965
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack104
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 481
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7642276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 958
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 958
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack107
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 957
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack108
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 921
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack109
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 919
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack110
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 898
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack111
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1920
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack112
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 887
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack113
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 886
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack114
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 874
+        width: 167
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack115
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 873
+        width: 167
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack116
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1660
+        width: 167
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack117
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 872
+        width: 167
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack118
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1626
+        width: 167
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Attack119
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1626
+        width: 167
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit00
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1625
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 142
+        width: 158
+        height: 373
+      alignment: 9
+      pivot: {x: 0.35443038, y: 0.7613941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit02
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 103
+        width: 182
+        height: 376
+      alignment: 9
+      pivot: {x: 0.36263737, y: 0.75797874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit03
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2807
+        width: 242
+        height: 354
+      alignment: 9
+      pivot: {x: 0.446281, y: 0.7824859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit04
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 852
+        width: 281
+        height: 368
+      alignment: 9
+      pivot: {x: 0.455516, y: 0.71467394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit05
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2717
+        width: 308
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4448052, y: 0.6703297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit06
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2763
+        width: 335
+        height: 358
+      alignment: 9
+      pivot: {x: 0.44179106, y: 0.62849164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit07
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2800
+        width: 358
+        height: 347
+      alignment: 9
+      pivot: {x: 0.44692737, y: 0.59654176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit08
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2962
+        width: 374
+        height: 329
+      alignment: 9
+      pivot: {x: 0.46524063, y: 0.56838906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2857
+        width: 387
+        height: 304
+      alignment: 9
+      pivot: {x: 0.48320413, y: 0.5493421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit10
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 3023
+        width: 395
+        height: 274
+      alignment: 9
+      pivot: {x: 0.49620253, y: 0.53649634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit11
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 3063
+        width: 393
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5089058, y: 0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit12
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3314
+        width: 390
+        height: 205
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.5463415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit13
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3521
+        width: 388
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.6157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit14
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3523
+        width: 382
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5157068, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit15
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3375
+        width: 374
+        height: 194
+      alignment: 9
+      pivot: {x: 0.51336896, y: 0.77835053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit16
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 3305
+        width: 367
+        height: 209
+      alignment: 9
+      pivot: {x: 0.51226157, y: 0.7751196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3173
+        width: 365
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.7853881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3149
+        width: 362
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5082873, y: 0.8035714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit19
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3103
+        width: 361
+        height: 226
+      alignment: 9
+      pivot: {x: 0.51246536, y: 0.8318584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit20
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3083
+        width: 361
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5207756, y: 0.8646288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit21
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 3083
+        width: 362
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5276243, y: 0.9039301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit22
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3093
+        width: 362
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5359116, y: 0.95154184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit23
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3123
+        width: 363
+        height: 225
+      alignment: 9
+      pivot: {x: 0.54269975, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3163
+        width: 365
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5452055, y: 1.0542986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit25
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 3293
+        width: 365
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5452055, y: 1.110599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit26
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 3299
+        width: 366
+        height: 211
+      alignment: 9
+      pivot: {x: 0.54371583, y: 1.1753554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit27
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3314
+        width: 367
+        height: 205
+      alignment: 9
+      pivot: {x: 0.54223436, y: 1.2439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit28
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 3322
+        width: 367
+        height: 199
+      alignment: 9
+      pivot: {x: 0.53950953, y: 1.3115578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit29
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3512
+        width: 367
+        height: 193
+      alignment: 9
+      pivot: {x: 0.53678477, y: 1.3834196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit30
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 3521
+        width: 366
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5327869, y: 1.4368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit31
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 3516
+        width: 366
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5300546, y: 1.4554974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3394
+        width: 365
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5287671, y: 1.4663212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit33
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3350
+        width: 367
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5258856, y: 1.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit34
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3331
+        width: 371
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5229111, y: 1.4693878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3386
+        width: 375
+        height: 193
+      alignment: 9
+      pivot: {x: 0.52, y: 1.492228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit36
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 3529
+        width: 380
+        height: 183
+      alignment: 9
+      pivot: {x: 0.51578945, y: 1.568306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit37
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3548
+        width: 383
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5143603, y: 1.7272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit38
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3571
+        width: 385
+        height: 143
+      alignment: 9
+      pivot: {x: 0.51428574, y: 1.979021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit39
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3716
+        width: 386
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51295334, y: 2.3613446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3842
+        width: 388
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5103093, y: 2.642202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3839
+        width: 387
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50904393, y: 2.6160715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3837
+        width: 386
+        height: 114
+      alignment: 9
+      pivot: {x: 0.507772, y: 2.5789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit43
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3707
+        width: 387
+        height: 127
+      alignment: 9
+      pivot: {x: 0.50904393, y: 2.4173229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3581
+        width: 384
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5078125, y: 2.3382354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3589
+        width: 385
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5090909, y: 2.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit46
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3709
+        width: 385
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5090909, y: 2.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3719
+        width: 386
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5103627, y: 2.7118645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit48
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit49
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3715
+        width: 385
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.6890757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit50
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 3713
+        width: 384
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5130208, y: 2.644628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit51
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 3713
+        width: 384
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5130208, y: 2.6363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit52
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3713
+        width: 384
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5130208, y: 2.6280992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit53
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3714
+        width: 385
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.6583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3723
+        width: 385
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7350428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit55
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit56
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit57
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit58
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit59
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 3836
+        width: 385
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5116883, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Hit60
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 3836
+        width: 386
+        height: 115
+      alignment: 9
+      pivot: {x: 0.51295334, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle060
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1614
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle061
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 872
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle062
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1613
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle063
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1612
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle064
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1612
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle065
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1592
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle066
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1592
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle067
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1552
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle068
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 812
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle069
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 812
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle070
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1552
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle071
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 811
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle072
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 750
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle073
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 750
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle074
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1551
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle075
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2289
+        width: 166
+        height: 366
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle076
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1490
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle077
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2396
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle078
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2396
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle079
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2375
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle080
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2364
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle081
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2364
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle082
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2697
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle083
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 2363
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle084
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 2697
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle085
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2657
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle086
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2352
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle087
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 2657
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle088
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2657
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle089
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 2596
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle090
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 2596
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle091
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2491
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle092
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2491
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle093
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 2657
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle094
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 2351
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle095
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2441
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle096
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2434
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle097
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2350
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle098
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2434
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle099
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 2350
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle100
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 2330
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle101
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2330
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle102
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2290
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle103
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 2290
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77260274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle104
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1490
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle105
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 2228
+        width: 166
+        height: 366
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle106
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1490
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle107
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 750
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle108
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 750
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 588
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle111
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 587
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle112
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 528
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle113
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1335
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle114
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1328
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle115
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1328
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle116
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1327
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle117
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1291
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle118
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1289
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Idle119
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 517
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7663044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk060
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1268
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk061
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1257
+        width: 166
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7683924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk062
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 441
+        width: 166
+        height: 369
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7669377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk063
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 645
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk064
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 586
+        width: 163
+        height: 369
+      alignment: 9
+      pivot: {x: 0.40490797, y: 0.7696477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk065
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 441
+        width: 160
+        height: 369
+      alignment: 9
+      pivot: {x: 0.39375, y: 0.7696477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk066
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 216
+        width: 157
+        height: 370
+      alignment: 9
+      pivot: {x: 0.3821656, y: 0.7702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk067
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 440
+        width: 152
+        height: 369
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.7723577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk068
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 379
+        width: 148
+        height: 369
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.7723577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk069
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 918
+        width: 143
+        height: 369
+      alignment: 9
+      pivot: {x: 0.32867134, y: 0.7723577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk070
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1289
+        width: 139
+        height: 367
+      alignment: 9
+      pivot: {x: 0.30935252, y: 0.773842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk071
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2066
+        width: 133
+        height: 366
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk072
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2434
+        width: 131
+        height: 364
+      alignment: 9
+      pivot: {x: 0.27480915, y: 0.77472526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk073
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 2718
+        width: 131
+        height: 363
+      alignment: 9
+      pivot: {x: 0.27480915, y: 0.77410465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk074
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2719
+        width: 130
+        height: 362
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.77348065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk075
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2731
+        width: 130
+        height: 360
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk076
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2742
+        width: 130
+        height: 359
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.77437323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk077
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 3594
+        width: 130
+        height: 357
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.7759104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk078
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2764
+        width: 129
+        height: 357
+      alignment: 9
+      pivot: {x: 0.27906978, y: 0.7759104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk079
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2743
+        width: 129
+        height: 358
+      alignment: 9
+      pivot: {x: 0.27906978, y: 0.7765363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk080
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2731
+        width: 133
+        height: 360
+      alignment: 9
+      pivot: {x: 0.30075186, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk081
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2730
+        width: 137
+        height: 361
+      alignment: 9
+      pivot: {x: 0.3211679, y: 0.78116345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk082
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2719
+        width: 140
+        height: 362
+      alignment: 9
+      pivot: {x: 0.34285715, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk083
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2398
+        width: 145
+        height: 364
+      alignment: 9
+      pivot: {x: 0.3586207, y: 0.78571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk084
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2066
+        width: 148
+        height: 366
+      alignment: 9
+      pivot: {x: 0.3716216, y: 0.78688526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk085
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1257
+        width: 152
+        height: 367
+      alignment: 9
+      pivot: {x: 0.38157895, y: 0.78746593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk086
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1256
+        width: 155
+        height: 367
+      alignment: 9
+      pivot: {x: 0.3935484, y: 0.79019076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk087
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1245
+        width: 158
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4050633, y: 0.79019076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk088
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1244
+        width: 162
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.79019076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk089
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1243
+        width: 165
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.79019076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk090
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 516
+        width: 166
+        height: 368
+      alignment: 9
+      pivot: {x: 0.41566265, y: 0.7907609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk091
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 379
+        width: 165
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0.7913279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk092
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 379
+        width: 163
+        height: 369
+      alignment: 9
+      pivot: {x: 0.42331287, y: 0.7913279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk093
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 215
+        width: 162
+        height: 370
+      alignment: 9
+      pivot: {x: 0.41975307, y: 0.7918919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk094
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 177
+        width: 160
+        height: 371
+      alignment: 9
+      pivot: {x: 0.4125, y: 0.7924528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk095
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 154
+        width: 157
+        height: 372
+      alignment: 9
+      pivot: {x: 0.40127388, y: 0.7903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk096
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 141
+        width: 153
+        height: 373
+      alignment: 9
+      pivot: {x: 0.39215687, y: 0.79088473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk097
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 131
+        width: 149
+        height: 373
+      alignment: 9
+      pivot: {x: 0.37583894, y: 0.79088473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk098
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 506
+        width: 144
+        height: 374
+      alignment: 9
+      pivot: {x: 0.3611111, y: 0.7914438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk099
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 124
+        width: 140
+        height: 375
+      alignment: 9
+      pivot: {x: 0.33571428, y: 0.78933334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk100
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 123
+        width: 136
+        height: 376
+      alignment: 9
+      pivot: {x: 0.31617647, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk101
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 63
+        width: 131
+        height: 376
+      alignment: 9
+      pivot: {x: 0.29007635, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk102
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 63
+        width: 129
+        height: 376
+      alignment: 9
+      pivot: {x: 0.27906978, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk103
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 62
+        width: 130
+        height: 376
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk104
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 57
+        width: 130
+        height: 376
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.78457445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk105
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1
+        width: 130
+        height: 376
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.78457445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk106
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1
+        width: 130
+        height: 376
+      alignment: 9
+      pivot: {x: 0.2769231, y: 0.7819149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk107
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 124
+        width: 131
+        height: 375
+      alignment: 9
+      pivot: {x: 0.27480915, y: 0.7813333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk108
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 435
+        width: 131
+        height: 374
+      alignment: 9
+      pivot: {x: 0.27480915, y: 0.78074867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk109
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 127
+        width: 131
+        height: 374
+      alignment: 9
+      pivot: {x: 0.27480915, y: 0.77807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk110
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 126
+        width: 136
+        height: 374
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.77540106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk111
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 543
+        width: 140
+        height: 373
+      alignment: 9
+      pivot: {x: 0.31428573, y: 0.7747989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk112
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 882
+        width: 144
+        height: 372
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.7741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk113
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 175
+        width: 148
+        height: 371
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.7735849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk114
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 170
+        width: 152
+        height: 371
+      alignment: 9
+      pivot: {x: 0.3618421, y: 0.77088946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk115
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 214
+        width: 156
+        height: 370
+      alignment: 9
+      pivot: {x: 0.37820512, y: 0.7702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk116
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 379
+        width: 158
+        height: 369
+      alignment: 9
+      pivot: {x: 0.38607594, y: 0.7696477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 161
+        height: 369
+      alignment: 9
+      pivot: {x: 0.39751554, y: 0.7696477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk118
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 163
+        height: 369
+      alignment: 9
+      pivot: {x: 0.40490797, y: 0.7669377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DJ_Walk119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 595
+        width: 165
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

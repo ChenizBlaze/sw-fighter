@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Sprites/DanteHavoc.tpsheet
+- Assets/Resources/Sprites/DanteJosh.tpsheet
+- Assets/Resources/Sprites/Surfer.tpsheet
+- Assets/Resources/Sprites/SW_v4.tpsheet
+- Assets/Resources/Sprites/SW_v4_Idle.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Sprites/DanteHavoc.png
+- Assets/Resources/Sprites/DanteJosh.png
+- Assets/Resources/Sprites/Surfer.png
+- Assets/Resources/Sprites/SW_v4.png
+- Assets/Resources/Sprites/SW_v4_Idle.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
