@@ -1,0 +1,5899 @@
+fileFormatVersion: 2
+guid: 0776d6211a04dbc4cb322e68c1836f2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DH_Attack060
+  - first:
+      213: 21300002
+    second: DH_Attack061
+  - first:
+      213: 21300004
+    second: DH_Attack062
+  - first:
+      213: 21300006
+    second: DH_Attack063
+  - first:
+      213: 21300008
+    second: DH_Attack064
+  - first:
+      213: 21300010
+    second: DH_Attack065
+  - first:
+      213: 21300012
+    second: DH_Attack066
+  - first:
+      213: 21300014
+    second: DH_Attack067
+  - first:
+      213: 21300016
+    second: DH_Attack068
+  - first:
+      213: 21300018
+    second: DH_Attack069
+  - first:
+      213: 21300020
+    second: DH_Attack070
+  - first:
+      213: 21300022
+    second: DH_Attack071
+  - first:
+      213: 21300024
+    second: DH_Attack072
+  - first:
+      213: 21300026
+    second: DH_Attack073
+  - first:
+      213: 21300028
+    second: DH_Attack074
+  - first:
+      213: 21300030
+    second: DH_Attack075
+  - first:
+      213: 21300032
+    second: DH_Attack076
+  - first:
+      213: 21300034
+    second: DH_Attack077
+  - first:
+      213: 21300036
+    second: DH_Attack078
+  - first:
+      213: 21300038
+    second: DH_Attack079
+  - first:
+      213: 21300040
+    second: DH_Attack080
+  - first:
+      213: 21300042
+    second: DH_Attack081
+  - first:
+      213: 21300044
+    second: DH_Attack082
+  - first:
+      213: 21300046
+    second: DH_Attack083
+  - first:
+      213: 21300048
+    second: DH_Attack084
+  - first:
+      213: 21300050
+    second: DH_Attack085
+  - first:
+      213: 21300052
+    second: DH_Attack086
+  - first:
+      213: 21300054
+    second: DH_Attack087
+  - first:
+      213: 21300056
+    second: DH_Attack088
+  - first:
+      213: 21300058
+    second: DH_Attack089
+  - first:
+      213: 21300060
+    second: DH_Attack090
+  - first:
+      213: 21300062
+    second: DH_Attack091
+  - first:
+      213: 21300064
+    second: DH_Attack092
+  - first:
+      213: 21300066
+    second: DH_Attack093
+  - first:
+      213: 21300068
+    second: DH_Attack094
+  - first:
+      213: 21300070
+    second: DH_Attack095
+  - first:
+      213: 21300072
+    second: DH_Attack096
+  - first:
+      213: 21300074
+    second: DH_Attack097
+  - first:
+      213: 21300076
+    second: DH_Attack098
+  - first:
+      213: 21300078
+    second: DH_Attack099
+  - first:
+      213: 21300080
+    second: DH_Attack100
+  - first:
+      213: 21300082
+    second: DH_Attack101
+  - first:
+      213: 21300084
+    second: DH_Attack102
+  - first:
+      213: 21300086
+    second: DH_Attack103
+  - first:
+      213: 21300088
+    second: DH_Attack104
+  - first:
+      213: 21300090
+    second: DH_Attack105
+  - first:
+      213: 21300092
+    second: DH_Attack106
+  - first:
+      213: 21300094
+    second: DH_Attack107
+  - first:
+      213: 21300096
+    second: DH_Attack108
+  - first:
+      213: 21300098
+    second: DH_Attack109
+  - first:
+      213: 21300100
+    second: DH_Attack110
+  - first:
+      213: 21300102
+    second: DH_Attack111
+  - first:
+      213: 21300104
+    second: DH_Attack112
+  - first:
+      213: 21300106
+    second: DH_Attack113
+  - first:
+      213: 21300108
+    second: DH_Attack114
+  - first:
+      213: 21300110
+    second: DH_Attack115
+  - first:
+      213: 21300112
+    second: DH_Attack116
+  - first:
+      213: 21300114
+    second: DH_Attack117
+  - first:
+      213: 21300116
+    second: DH_Attack118
+  - first:
+      213: 21300118
+    second: DH_Attack119
+  - first:
+      213: 21300120
+    second: DH_Hit00
+  - first:
+      213: 21300122
+    second: DH_Hit01
+  - first:
+      213: 21300124
+    second: DH_Hit02
+  - first:
+      213: 21300126
+    second: DH_Hit03
+  - first:
+      213: 21300128
+    second: DH_Hit04
+  - first:
+      213: 21300130
+    second: DH_Hit05
+  - first:
+      213: 21300132
+    second: DH_Hit06
+  - first:
+      213: 21300134
+    second: DH_Hit07
+  - first:
+      213: 21300136
+    second: DH_Hit08
+  - first:
+      213: 21300138
+    second: DH_Hit09
+  - first:
+      213: 21300140
+    second: DH_Hit10
+  - first:
+      213: 21300142
+    second: DH_Hit11
+  - first:
+      213: 21300144
+    second: DH_Hit12
+  - first:
+      213: 21300146
+    second: DH_Hit13
+  - first:
+      213: 21300148
+    second: DH_Hit14
+  - first:
+      213: 21300150
+    second: DH_Hit15
+  - first:
+      213: 21300152
+    second: DH_Hit16
+  - first:
+      213: 21300154
+    second: DH_Hit17
+  - first:
+      213: 21300156
+    second: DH_Hit18
+  - first:
+      213: 21300158
+    second: DH_Hit19
+  - first:
+      213: 21300160
+    second: DH_Hit20
+  - first:
+      213: 21300162
+    second: DH_Hit21
+  - first:
+      213: 21300164
+    second: DH_Hit22
+  - first:
+      213: 21300166
+    second: DH_Hit23
+  - first:
+      213: 21300168
+    second: DH_Hit24
+  - first:
+      213: 21300170
+    second: DH_Hit25
+  - first:
+      213: 21300172
+    second: DH_Hit26
+  - first:
+      213: 21300174
+    second: DH_Hit27
+  - first:
+      213: 21300176
+    second: DH_Hit28
+  - first:
+      213: 21300178
+    second: DH_Hit29
+  - first:
+      213: 21300180
+    second: DH_Hit30
+  - first:
+      213: 21300182
+    second: DH_Hit31
+  - first:
+      213: 21300184
+    second: DH_Hit32
+  - first:
+      213: 21300186
+    second: DH_Hit33
+  - first:
+      213: 21300188
+    second: DH_Hit34
+  - first:
+      213: 21300190
+    second: DH_Hit35
+  - first:
+      213: 21300192
+    second: DH_Hit36
+  - first:
+      213: 21300194
+    second: DH_Hit37
+  - first:
+      213: 21300196
+    second: DH_Hit38
+  - first:
+      213: 21300198
+    second: DH_Hit39
+  - first:
+      213: 21300200
+    second: DH_Hit40
+  - first:
+      213: 21300202
+    second: DH_Hit41
+  - first:
+      213: 21300204
+    second: DH_Hit42
+  - first:
+      213: 21300206
+    second: DH_Hit43
+  - first:
+      213: 21300208
+    second: DH_Hit44
+  - first:
+      213: 21300210
+    second: DH_Hit45
+  - first:
+      213: 21300212
+    second: DH_Hit46
+  - first:
+      213: 21300214
+    second: DH_Hit47
+  - first:
+      213: 21300216
+    second: DH_Hit48
+  - first:
+      213: 21300218
+    second: DH_Hit49
+  - first:
+      213: 21300220
+    second: DH_Hit50
+  - first:
+      213: 21300222
+    second: DH_Hit51
+  - first:
+      213: 21300224
+    second: DH_Hit52
+  - first:
+      213: 21300226
+    second: DH_Hit53
+  - first:
+      213: 21300228
+    second: DH_Hit54
+  - first:
+      213: 21300230
+    second: DH_Hit55
+  - first:
+      213: 21300232
+    second: DH_Hit56
+  - first:
+      213: 21300234
+    second: DH_Hit57
+  - first:
+      213: 21300236
+    second: DH_Hit58
+  - first:
+      213: 21300238
+    second: DH_Hit59
+  - first:
+      213: 21300240
+    second: DH_Hit60
+  - first:
+      213: 21300242
+    second: DH_Idle060
+  - first:
+      213: 21300244
+    second: DH_Idle061
+  - first:
+      213: 21300246
+    second: DH_Idle062
+  - first:
+      213: 21300248
+    second: DH_Idle063
+  - first:
+      213: 21300250
+    second: DH_Idle064
+  - first:
+      213: 21300252
+    second: DH_Idle065
+  - first:
+      213: 21300254
+    second: DH_Idle066
+  - first:
+      213: 21300256
+    second: DH_Idle067
+  - first:
+      213: 21300258
+    second: DH_Idle068
+  - first:
+      213: 21300260
+    second: DH_Idle069
+  - first:
+      213: 21300262
+    second: DH_Idle070
+  - first:
+      213: 21300264
+    second: DH_Idle071
+  - first:
+      213: 21300266
+    second: DH_Idle072
+  - first:
+      213: 21300268
+    second: DH_Idle073
+  - first:
+      213: 21300270
+    second: DH_Idle074
+  - first:
+      213: 21300272
+    second: DH_Idle075
+  - first:
+      213: 21300274
+    second: DH_Idle076
+  - first:
+      213: 21300276
+    second: DH_Idle077
+  - first:
+      213: 21300278
+    second: DH_Idle078
+  - first:
+      213: 21300280
+    second: DH_Idle079
+  - first:
+      213: 21300282
+    second: DH_Idle080
+  - first:
+      213: 21300284
+    second: DH_Idle081
+  - first:
+      213: 21300286
+    second: DH_Idle082
+  - first:
+      213: 21300288
+    second: DH_Idle083
+  - first:
+      213: 21300290
+    second: DH_Idle084
+  - first:
+      213: 21300292
+    second: DH_Idle085
+  - first:
+      213: 21300294
+    second: DH_Idle086
+  - first:
+      213: 21300296
+    second: DH_Idle087
+  - first:
+      213: 21300298
+    second: DH_Idle088
+  - first:
+      213: 21300300
+    second: DH_Idle089
+  - first:
+      213: 21300302
+    second: DH_Idle090
+  - first:
+      213: 21300304
+    second: DH_Idle091
+  - first:
+      213: 21300306
+    second: DH_Idle092
+  - first:
+      213: 21300308
+    second: DH_Idle093
+  - first:
+      213: 21300310
+    second: DH_Idle094
+  - first:
+      213: 21300312
+    second: DH_Idle095
+  - first:
+      213: 21300314
+    second: DH_Idle096
+  - first:
+      213: 21300316
+    second: DH_Idle097
+  - first:
+      213: 21300318
+    second: DH_Idle098
+  - first:
+      213: 21300320
+    second: DH_Idle099
+  - first:
+      213: 21300322
+    second: DH_Idle100
+  - first:
+      213: 21300324
+    second: DH_Idle101
+  - first:
+      213: 21300326
+    second: DH_Idle102
+  - first:
+      213: 21300328
+    second: DH_Idle103
+  - first:
+      213: 21300330
+    second: DH_Idle104
+  - first:
+      213: 21300332
+    second: DH_Idle105
+  - first:
+      213: 21300334
+    second: DH_Idle106
+  - first:
+      213: 21300336
+    second: DH_Idle107
+  - first:
+      213: 21300338
+    second: DH_Idle108
+  - first:
+      213: 21300340
+    second: DH_Idle109
+  - first:
+      213: 21300342
+    second: DH_Idle110
+  - first:
+      213: 21300344
+    second: DH_Idle111
+  - first:
+      213: 21300346
+    second: DH_Idle112
+  - first:
+      213: 21300348
+    second: DH_Idle113
+  - first:
+      213: 21300350
+    second: DH_Idle114
+  - first:
+      213: 21300352
+    second: DH_Idle115
+  - first:
+      213: 21300354
+    second: DH_Idle116
+  - first:
+      213: 21300356
+    second: DH_Idle117
+  - first:
+      213: 21300358
+    second: DH_Idle118
+  - first:
+      213: 21300360
+    second: DH_Idle119
+  - first:
+      213: 21300362
+    second: DH_Walk060
+  - first:
+      213: 21300364
+    second: DH_Walk061
+  - first:
+      213: 21300366
+    second: DH_Walk062
+  - first:
+      213: 21300368
+    second: DH_Walk063
+  - first:
+      213: 21300370
+    second: DH_Walk064
+  - first:
+      213: 21300372
+    second: DH_Walk065
+  - first:
+      213: 21300374
+    second: DH_Walk066
+  - first:
+      213: 21300376
+    second: DH_Walk067
+  - first:
+      213: 21300378
+    second: DH_Walk068
+  - first:
+      213: 21300380
+    second: DH_Walk069
+  - first:
+      213: 21300382
+    second: DH_Walk070
+  - first:
+      213: 21300384
+    second: DH_Walk071
+  - first:
+      213: 21300386
+    second: DH_Walk072
+  - first:
+      213: 21300388
+    second: DH_Walk073
+  - first:
+      213: 21300390
+    second: DH_Walk074
+  - first:
+      213: 21300392
+    second: DH_Walk075
+  - first:
+      213: 21300394
+    second: DH_Walk076
+  - first:
+      213: 21300396
+    second: DH_Walk077
+  - first:
+      213: 21300398
+    second: DH_Walk078
+  - first:
+      213: 21300400
+    second: DH_Walk079
+  - first:
+      213: 21300402
+    second: DH_Walk080
+  - first:
+      213: 21300404
+    second: DH_Walk081
+  - first:
+      213: 21300406
+    second: DH_Walk082
+  - first:
+      213: 21300408
+    second: DH_Walk083
+  - first:
+      213: 21300410
+    second: DH_Walk084
+  - first:
+      213: 21300412
+    second: DH_Walk085
+  - first:
+      213: 21300414
+    second: DH_Walk086
+  - first:
+      213: 21300416
+    second: DH_Walk087
+  - first:
+      213: 21300418
+    second: DH_Walk088
+  - first:
+      213: 21300420
+    second: DH_Walk089
+  - first:
+      213: 21300422
+    second: DH_Walk090
+  - first:
+      213: 21300424
+    second: DH_Walk091
+  - first:
+      213: 21300426
+    second: DH_Walk092
+  - first:
+      213: 21300428
+    second: DH_Walk093
+  - first:
+      213: 21300430
+    second: DH_Walk094
+  - first:
+      213: 21300432
+    second: DH_Walk095
+  - first:
+      213: 21300434
+    second: DH_Walk096
+  - first:
+      213: 21300436
+    second: DH_Walk097
+  - first:
+      213: 21300438
+    second: DH_Walk098
+  - first:
+      213: 21300440
+    second: DH_Walk099
+  - first:
+      213: 21300442
+    second: DH_Walk100
+  - first:
+      213: 21300444
+    second: DH_Walk101
+  - first:
+      213: 21300446
+    second: DH_Walk102
+  - first:
+      213: 21300448
+    second: DH_Walk103
+  - first:
+      213: 21300450
+    second: DH_Walk104
+  - first:
+      213: 21300452
+    second: DH_Walk105
+  - first:
+      213: 21300454
+    second: DH_Walk106
+  - first:
+      213: 21300456
+    second: DH_Walk107
+  - first:
+      213: 21300458
+    second: DH_Walk108
+  - first:
+      213: 21300460
+    second: DH_Walk109
+  - first:
+      213: 21300462
+    second: DH_Walk110
+  - first:
+      213: 21300464
+    second: DH_Walk111
+  - first:
+      213: 21300466
+    second: DH_Walk112
+  - first:
+      213: 21300468
+    second: DH_Walk113
+  - first:
+      213: 21300470
+    second: DH_Walk114
+  - first:
+      213: 21300472
+    second: DH_Walk115
+  - first:
+      213: 21300474
+    second: DH_Walk116
+  - first:
+      213: 21300476
+    second: DH_Walk117
+  - first:
+      213: 21300478
+    second: DH_Walk118
+  - first:
+      213: 21300480
+    second: DH_Walk119
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DH_Attack060
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1564
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack061
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1564
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack062
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1531
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack063
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1511
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack064
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1510
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack065
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1506
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack066
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1504
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack067
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 1501
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack068
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 829
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack069
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 796
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack070
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 667
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack071
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 667
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack072
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 550
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack073
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 401
+        width: 164
+        height: 367
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack074
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 298
+        width: 164
+        height: 368
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack075
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 297
+        width: 180
+        height: 368
+      alignment: 9
+      pivot: {x: 0.37222221, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack076
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 202
+        height: 368
+      alignment: 9
+      pivot: {x: 0.33168316, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack077
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 117
+        width: 220
+        height: 369
+      alignment: 9
+      pivot: {x: 0.30454546, y: 0.7669377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack078
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 30
+        width: 232
+        height: 369
+      alignment: 9
+      pivot: {x: 0.28879312, y: 0.7669377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack079
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 27
+        width: 235
+        height: 369
+      alignment: 9
+      pivot: {x: 0.2851064, y: 0.7669377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack080
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 142
+        width: 236
+        height: 368
+      alignment: 9
+      pivot: {x: 0.2838983, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack081
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 91
+        width: 236
+        height: 368
+      alignment: 9
+      pivot: {x: 0.2838983, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack082
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 58
+        width: 236
+        height: 368
+      alignment: 9
+      pivot: {x: 0.2838983, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack083
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 38
+        width: 233
+        height: 368
+      alignment: 9
+      pivot: {x: 0.28755364, y: 0.76902175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack084
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 391
+        width: 225
+        height: 367
+      alignment: 9
+      pivot: {x: 0.29777777, y: 0.77111715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack085
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 398
+        width: 214
+        height: 366
+      alignment: 9
+      pivot: {x: 0.31308413, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack086
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 398
+        width: 202
+        height: 366
+      alignment: 9
+      pivot: {x: 0.33168316, y: 0.77322406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack087
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 1500
+        width: 191
+        height: 365
+      alignment: 9
+      pivot: {x: 0.35078534, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack088
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1500
+        width: 181
+        height: 365
+      alignment: 9
+      pivot: {x: 0.37016574, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack089
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1494
+        width: 173
+        height: 365
+      alignment: 9
+      pivot: {x: 0.38728324, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack090
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1493
+        width: 168
+        height: 365
+      alignment: 9
+      pivot: {x: 0.39880952, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack091
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1484
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40361446, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack092
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1484
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack093
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1402
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack094
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 1402
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack095
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1402
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack096
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack097
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1285
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack098
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1227
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack099
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1197
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack100
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 492
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack101
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 462
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack102
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 461
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack103
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 428
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7759563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack104
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1197
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack105
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1164
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack106
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1144
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack107
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1143
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack108
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1139
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack109
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1137
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack110
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 1134
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack111
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1133
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack112
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1133
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack113
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1127
+        width: 164
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack114
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1126
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4060606, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack115
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 1117
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4060606, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack116
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1117
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack117
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1035
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack118
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1035
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Attack119
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1035
+        width: 166
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 918
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit01
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 282
+        width: 158
+        height: 371
+      alignment: 9
+      pivot: {x: 0.34810126, y: 0.77088946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit02
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1
+        width: 206
+        height: 378
+      alignment: 9
+      pivot: {x: 0.4368932, y: 0.75661373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit03
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2607
+        width: 258
+        height: 358
+      alignment: 9
+      pivot: {x: 0.48062015, y: 0.7793296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit04
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 19
+        width: 289
+        height: 369
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.7154471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit05
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 382
+        width: 313
+        height: 366
+      alignment: 9
+      pivot: {x: 0.4536741, y: 0.6721311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit06
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 2597
+        width: 335
+        height: 360
+      alignment: 9
+      pivot: {x: 0.44477612, y: 0.63055557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit07
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2660
+        width: 355
+        height: 349
+      alignment: 9
+      pivot: {x: 0.44507042, y: 0.5988539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit08
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2713
+        width: 369
+        height: 331
+      alignment: 9
+      pivot: {x: 0.45799458, y: 0.570997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2746
+        width: 382
+        height: 305
+      alignment: 9
+      pivot: {x: 0.4764398, y: 0.5508197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit10
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2863
+        width: 390
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.53818184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2985
+        width: 391
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5089514, y: 0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit12
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3203
+        width: 389
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5141388, y: 0.5674419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit13
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3209
+        width: 387
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5167959, y: 0.6588785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit14
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3211
+        width: 382
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5157068, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit15
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 3196
+        width: 375
+        height: 218
+      alignment: 9
+      pivot: {x: 0.512, y: 0.79816514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3046
+        width: 368
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5081522, y: 0.7982833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit17
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2967
+        width: 364
+        height: 242
+      alignment: 9
+      pivot: {x: 0.50274724, y: 0.8057851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit18
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2959
+        width: 362
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.82186234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit19
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2945
+        width: 360
+        height: 249
+      alignment: 9
+      pivot: {x: 0.50555557, y: 0.8473896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit20
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2954
+        width: 358
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5111732, y: 0.8785425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit21
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2963
+        width: 358
+        height: 244
+      alignment: 9
+      pivot: {x: 0.51955307, y: 0.9139344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 3011
+        width: 358
+        height: 238
+      alignment: 9
+      pivot: {x: 0.52793294, y: 0.9537815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3053
+        width: 362
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5359116, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3070
+        width: 366
+        height: 221
+      alignment: 9
+      pivot: {x: 0.54371583, y: 1.0588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit25
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 3208
+        width: 368
+        height: 214
+      alignment: 9
+      pivot: {x: 0.54347825, y: 1.1168225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit26
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 3227
+        width: 368
+        height: 207
+      alignment: 9
+      pivot: {x: 0.54347825, y: 1.1835749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit27
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 3251
+        width: 369
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5420054, y: 1.2487562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3281
+        width: 370
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5405405, y: 1.3179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit29
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 3420
+        width: 371
+        height: 188
+      alignment: 9
+      pivot: {x: 0.53908354, y: 1.393617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit30
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3425
+        width: 372
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53763443, y: 1.4486487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit31
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3424
+        width: 373
+        height: 186
+      alignment: 9
+      pivot: {x: 0.536193, y: 1.467742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit32
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3416
+        width: 374
+        height: 188
+      alignment: 9
+      pivot: {x: 0.53475934, y: 1.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3286
+        width: 375
+        height: 190
+      alignment: 9
+      pivot: {x: 0.53333336, y: 1.4789474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3293
+        width: 378
+        height: 189
+      alignment: 9
+      pivot: {x: 0.52910054, y: 1.4867725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit35
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 3425
+        width: 382
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5235602, y: 1.5135136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit36
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3436
+        width: 385
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5194805, y: 1.5977012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit37
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3454
+        width: 388
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5154639, y: 1.7643312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3478
+        width: 389
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5141388, y: 2.0447762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit39
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3614
+        width: 385
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5064935, y: 2.3613446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3738
+        width: 384
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5026042, y: 2.642202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50130546, y: 2.6160715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit42
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3735
+        width: 382
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5026178, y: 2.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit43
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 3606
+        width: 383
+        height: 125
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit44
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3478
+        width: 384
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5052083, y: 2.3731344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3484
+        width: 384
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5052083, y: 2.4615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit46
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3612
+        width: 383
+        height: 121
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.644628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit47
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 3733
+        width: 383
+        height: 114
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.8070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3621
+        width: 383
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit49
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3614
+        width: 383
+        height: 119
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.6890757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit50
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3612
+        width: 382
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5052356, y: 2.644628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit51
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3610
+        width: 382
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5052356, y: 2.6147542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit52
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3612
+        width: 382
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5052356, y: 2.6280992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit53
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3613
+        width: 382
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5052356, y: 2.6583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit54
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3616
+        width: 383
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.7350428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit55
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 3734
+        width: 383
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.8318584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit56
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit57
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit58
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit59
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Hit60
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3735
+        width: 383
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50391644, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle060
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 860
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle061
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 830
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle062
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 777
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle063
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 776
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle064
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 772
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle065
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1877
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle066
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1873
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle067
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1871
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle068
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1867
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle069
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1867
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle070
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1861
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle071
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1860
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle072
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2226
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle073
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2217
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle074
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 2217
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle075
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 2135
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle076
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2135
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle077
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2135
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle078
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2018
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle079
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2326
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle080
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2325
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle081
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2296
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle082
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2296
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle083
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2263
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle084
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2243
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle085
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2591
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle086
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 2591
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle087
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2582
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle088
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 2582
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle089
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 2500
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle090
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2500
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle091
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 2500
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle092
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2383
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle093
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2582
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle094
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2383
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle095
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2350
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7867036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle096
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 2243
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle097
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2239
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle098
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2237
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle099
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2233
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle100
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2233
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle101
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 2227
+        width: 165
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2018
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1985
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle104
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1961
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle105
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1960
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle106
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1931
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle107
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1931
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle108
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1898
+        width: 165
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.78236914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle109
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1851
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle110
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1851
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle111
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 1769
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle112
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1769
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle113
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1769
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1652
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1652
+        width: 165
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle116
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 770
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle117
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 767
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle118
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 766
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Idle119
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 766
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk060
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 760
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk061
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 759
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk062
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 750
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4121212, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk063
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 409
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40853658, y: 0.77868855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk064
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 918
+        width: 162
+        height: 365
+      alignment: 9
+      pivot: {x: 0.40123457, y: 0.7808219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk065
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1228
+        width: 160
+        height: 365
+      alignment: 9
+      pivot: {x: 0.39375, y: 0.7808219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk066
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1251
+        width: 156
+        height: 366
+      alignment: 9
+      pivot: {x: 0.37820512, y: 0.78142077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk067
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 883
+        width: 153
+        height: 366
+      alignment: 9
+      pivot: {x: 0.36601308, y: 0.78142077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk068
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1617
+        width: 148
+        height: 365
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.78356165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk069
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1984
+        width: 143
+        height: 364
+      alignment: 9
+      pivot: {x: 0.32867134, y: 0.78296703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk070
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2234
+        width: 139
+        height: 364
+      alignment: 9
+      pivot: {x: 0.30935252, y: 0.78296703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk071
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2263
+        width: 133
+        height: 362
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.7845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk072
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2600
+        width: 129
+        height: 361
+      alignment: 9
+      pivot: {x: 0.2635659, y: 0.7839335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk073
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2607
+        width: 124
+        height: 358
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.7849162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk074
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2626
+        width: 124
+        height: 357
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.78431374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk075
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2627
+        width: 123
+        height: 356
+      alignment: 9
+      pivot: {x: 0.23577236, y: 0.78370786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk076
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2690
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.23577236, y: 0.78531075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk077
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 3140
+        width: 124
+        height: 353
+      alignment: 9
+      pivot: {x: 0.24193548, y: 0.78470254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk078
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 3495
+        width: 126
+        height: 352
+      alignment: 9
+      pivot: {x: 0.26190478, y: 0.7869318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk079
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 3140
+        width: 128
+        height: 353
+      alignment: 9
+      pivot: {x: 0.2734375, y: 0.7875354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk080
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2689
+        width: 132
+        height: 355
+      alignment: 9
+      pivot: {x: 0.29545453, y: 0.7887324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk081
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 2627
+        width: 136
+        height: 356
+      alignment: 9
+      pivot: {x: 0.31617647, y: 0.7921348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk082
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2603
+        width: 140
+        height: 358
+      alignment: 9
+      pivot: {x: 0.33571428, y: 0.7932961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk083
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2601
+        width: 144
+        height: 360
+      alignment: 9
+      pivot: {x: 0.35416666, y: 0.79444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk084
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2350
+        width: 148
+        height: 361
+      alignment: 9
+      pivot: {x: 0.3716216, y: 0.7977839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk085
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1878
+        width: 152
+        height: 363
+      alignment: 9
+      pivot: {x: 0.38157895, y: 0.7988981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk086
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1868
+        width: 154
+        height: 364
+      alignment: 9
+      pivot: {x: 0.38961038, y: 0.7994506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk087
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1619
+        width: 157
+        height: 364
+      alignment: 9
+      pivot: {x: 0.40127388, y: 0.7994506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk088
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1595
+        width: 161
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4037267, y: 0.7994506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk089
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 750
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4060606, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk090
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1594
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.8021978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk091
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 408
+        width: 164
+        height: 366
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.80054647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk092
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 390
+        width: 163
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41717792, y: 0.80108994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk093
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 381
+        width: 161
+        height: 367
+      alignment: 9
+      pivot: {x: 0.41614908, y: 0.80108994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk094
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 508
+        width: 159
+        height: 368
+      alignment: 9
+      pivot: {x: 0.40880504, y: 0.80163044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk095
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 488
+        width: 157
+        height: 369
+      alignment: 9
+      pivot: {x: 0.40127388, y: 0.802168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk096
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 512
+        width: 152
+        height: 369
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.802168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk097
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 135
+        width: 149
+        height: 371
+      alignment: 9
+      pivot: {x: 0.37583894, y: 0.8005391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk098
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 655
+        width: 145
+        height: 371
+      alignment: 9
+      pivot: {x: 0.3586207, y: 0.8005391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk099
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 119
+        width: 140
+        height: 371
+      alignment: 9
+      pivot: {x: 0.33571428, y: 0.8005391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk100
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 24
+        width: 136
+        height: 372
+      alignment: 9
+      pivot: {x: 0.31617647, y: 0.7983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk101
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1879
+        width: 131
+        height: 372
+      alignment: 9
+      pivot: {x: 0.29007635, y: 0.7983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk102
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 1028
+        width: 127
+        height: 372
+      alignment: 9
+      pivot: {x: 0.26771653, y: 0.7983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk103
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 23
+        width: 123
+        height: 373
+      alignment: 9
+      pivot: {x: 0.23577236, y: 0.79624665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk104
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 7
+        width: 123
+        height: 373
+      alignment: 9
+      pivot: {x: 0.23577236, y: 0.79624665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk105
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 7
+        width: 123
+        height: 373
+      alignment: 9
+      pivot: {x: 0.23577236, y: 0.7935657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk106
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 7
+        width: 124
+        height: 373
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.7935657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk107
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 752
+        width: 124
+        height: 372
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.7930108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk108
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 34
+        width: 127
+        height: 372
+      alignment: 9
+      pivot: {x: 0.2519685, y: 0.7903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk109
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2253
+        width: 130
+        height: 371
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.78975743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk110
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1890
+        width: 135
+        height: 371
+      alignment: 9
+      pivot: {x: 0.2888889, y: 0.787062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk111
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1518
+        width: 139
+        height: 370
+      alignment: 9
+      pivot: {x: 0.30935252, y: 0.7864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk112
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1147
+        width: 143
+        height: 369
+      alignment: 9
+      pivot: {x: 0.32867134, y: 0.78590786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk113
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 296
+        width: 148
+        height: 369
+      alignment: 9
+      pivot: {x: 0.3445946, y: 0.7831978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk114
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1247
+        width: 151
+        height: 368
+      alignment: 9
+      pivot: {x: 0.3576159, y: 0.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk115
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 878
+        width: 155
+        height: 367
+      alignment: 9
+      pivot: {x: 0.37419355, y: 0.78201634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk116
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 859
+        width: 158
+        height: 366
+      alignment: 9
+      pivot: {x: 0.38607594, y: 0.78142077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 550
+        width: 160
+        height: 366
+      alignment: 9
+      pivot: {x: 0.39375, y: 0.77868855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk118
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 404
+        width: 162
+        height: 366
+      alignment: 9
+      pivot: {x: 0.40123457, y: 0.77868855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DH_Walk119
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 668
+        width: 165
+        height: 365
+      alignment: 9
+      pivot: {x: 0.4060606, y: 0.7780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

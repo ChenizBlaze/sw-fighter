@@ -1,0 +1,4507 @@
+fileFormatVersion: 2
+guid: c4cb02c3b9136454da419e5319d9caf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Surfer_Attack-Surfer_Attack00
+  - first:
+      213: 21300002
+    second: Surfer_Attack-Surfer_Attack01
+  - first:
+      213: 21300004
+    second: Surfer_Attack-Surfer_Attack02
+  - first:
+      213: 21300006
+    second: Surfer_Attack-Surfer_Attack03
+  - first:
+      213: 21300008
+    second: Surfer_Attack-Surfer_Attack04
+  - first:
+      213: 21300010
+    second: Surfer_Attack-Surfer_Attack05
+  - first:
+      213: 21300012
+    second: Surfer_Attack-Surfer_Attack06
+  - first:
+      213: 21300014
+    second: Surfer_Attack-Surfer_Attack07
+  - first:
+      213: 21300016
+    second: Surfer_Attack-Surfer_Attack08
+  - first:
+      213: 21300018
+    second: Surfer_Attack-Surfer_Attack09
+  - first:
+      213: 21300020
+    second: Surfer_Attack-Surfer_Attack10
+  - first:
+      213: 21300022
+    second: Surfer_Attack-Surfer_Attack11
+  - first:
+      213: 21300024
+    second: Surfer_Attack-Surfer_Attack12
+  - first:
+      213: 21300026
+    second: Surfer_Attack-Surfer_Attack13
+  - first:
+      213: 21300028
+    second: Surfer_Attack-Surfer_Attack14
+  - first:
+      213: 21300030
+    second: Surfer_Attack-Surfer_Attack15
+  - first:
+      213: 21300032
+    second: Surfer_Attack-Surfer_Attack16
+  - first:
+      213: 21300034
+    second: Surfer_Attack-Surfer_Attack17
+  - first:
+      213: 21300036
+    second: Surfer_Attack-Surfer_Attack18
+  - first:
+      213: 21300038
+    second: Surfer_Attack-Surfer_Attack19
+  - first:
+      213: 21300040
+    second: Surfer_Attack-Surfer_Attack20
+  - first:
+      213: 21300042
+    second: Surfer_Attack-Surfer_Attack21
+  - first:
+      213: 21300044
+    second: Surfer_Attack-Surfer_Attack22
+  - first:
+      213: 21300046
+    second: Surfer_Attack-Surfer_Attack23
+  - first:
+      213: 21300048
+    second: Surfer_Attack-Surfer_Attack24
+  - first:
+      213: 21300050
+    second: Surfer_Attack-Surfer_Attack25
+  - first:
+      213: 21300052
+    second: Surfer_Attack-Surfer_Attack26
+  - first:
+      213: 21300054
+    second: Surfer_Attack-Surfer_Attack27
+  - first:
+      213: 21300056
+    second: Surfer_Attack-Surfer_Attack28
+  - first:
+      213: 21300058
+    second: Surfer_Attack-Surfer_Attack29
+  - first:
+      213: 21300060
+    second: Surfer_Attack-Surfer_Attack30
+  - first:
+      213: 21300062
+    second: Surfer_Hit-Surfer_Hit00
+  - first:
+      213: 21300064
+    second: Surfer_Hit-Surfer_Hit01
+  - first:
+      213: 21300066
+    second: Surfer_Hit-Surfer_Hit02
+  - first:
+      213: 21300068
+    second: Surfer_Hit-Surfer_Hit03
+  - first:
+      213: 21300070
+    second: Surfer_Hit-Surfer_Hit04
+  - first:
+      213: 21300072
+    second: Surfer_Hit-Surfer_Hit05
+  - first:
+      213: 21300074
+    second: Surfer_Hit-Surfer_Hit06
+  - first:
+      213: 21300076
+    second: Surfer_Hit-Surfer_Hit07
+  - first:
+      213: 21300078
+    second: Surfer_Hit-Surfer_Hit08
+  - first:
+      213: 21300080
+    second: Surfer_Hit-Surfer_Hit09
+  - first:
+      213: 21300082
+    second: Surfer_Hit-Surfer_Hit10
+  - first:
+      213: 21300084
+    second: Surfer_Hit-Surfer_Hit11
+  - first:
+      213: 21300086
+    second: Surfer_Hit-Surfer_Hit12
+  - first:
+      213: 21300088
+    second: Surfer_Hit-Surfer_Hit13
+  - first:
+      213: 21300090
+    second: Surfer_Hit-Surfer_Hit14
+  - first:
+      213: 21300092
+    second: Surfer_Hit-Surfer_Hit15
+  - first:
+      213: 21300094
+    second: Surfer_Hit-Surfer_Hit16
+  - first:
+      213: 21300096
+    second: Surfer_Hit-Surfer_Hit17
+  - first:
+      213: 21300098
+    second: Surfer_Hit-Surfer_Hit18
+  - first:
+      213: 21300100
+    second: Surfer_Hit-Surfer_Hit19
+  - first:
+      213: 21300102
+    second: Surfer_Hit-Surfer_Hit20
+  - first:
+      213: 21300104
+    second: Surfer_Hit-Surfer_Hit21
+  - first:
+      213: 21300106
+    second: Surfer_Hit-Surfer_Hit22
+  - first:
+      213: 21300108
+    second: Surfer_Hit-Surfer_Hit23
+  - first:
+      213: 21300110
+    second: Surfer_Hit-Surfer_Hit24
+  - first:
+      213: 21300112
+    second: Surfer_Hit-Surfer_Hit25
+  - first:
+      213: 21300114
+    second: Surfer_Hit-Surfer_Hit26
+  - first:
+      213: 21300116
+    second: Surfer_Hit-Surfer_Hit27
+  - first:
+      213: 21300118
+    second: Surfer_Hit-Surfer_Hit28
+  - first:
+      213: 21300120
+    second: Surfer_Hit-Surfer_Hit29
+  - first:
+      213: 21300122
+    second: Surfer_Hit-Surfer_Hit30
+  - first:
+      213: 21300124
+    second: Surfer_Hit-Surfer_Hit31
+  - first:
+      213: 21300126
+    second: Surfer_Hit-Surfer_Hit32
+  - first:
+      213: 21300128
+    second: Surfer_Hit-Surfer_Hit33
+  - first:
+      213: 21300130
+    second: Surfer_Hit-Surfer_Hit34
+  - first:
+      213: 21300132
+    second: Surfer_Hit-Surfer_Hit35
+  - first:
+      213: 21300134
+    second: Surfer_Hit-Surfer_Hit36
+  - first:
+      213: 21300136
+    second: Surfer_Hit-Surfer_Hit37
+  - first:
+      213: 21300138
+    second: Surfer_Hit-Surfer_Hit38
+  - first:
+      213: 21300140
+    second: Surfer_Hit-Surfer_Hit39
+  - first:
+      213: 21300142
+    second: Surfer_Hit-Surfer_Hit40
+  - first:
+      213: 21300144
+    second: Surfer_Hit-Surfer_Hit41
+  - first:
+      213: 21300146
+    second: Surfer_Hit-Surfer_Hit42
+  - first:
+      213: 21300148
+    second: Surfer_Hit-Surfer_Hit43
+  - first:
+      213: 21300150
+    second: Surfer_Hit-Surfer_Hit44
+  - first:
+      213: 21300152
+    second: Surfer_Hit-Surfer_Hit45
+  - first:
+      213: 21300154
+    second: Surfer_Hit-Surfer_Hit46
+  - first:
+      213: 21300156
+    second: Surfer_Hit-Surfer_Hit47
+  - first:
+      213: 21300158
+    second: Surfer_Hit-Surfer_Hit48
+  - first:
+      213: 21300160
+    second: Surfer_Hit-Surfer_Hit49
+  - first:
+      213: 21300162
+    second: Surfer_Hit-Surfer_Hit50
+  - first:
+      213: 21300164
+    second: Surfer_Hit-Surfer_Hit51
+  - first:
+      213: 21300166
+    second: Surfer_Hit-Surfer_Hit52
+  - first:
+      213: 21300168
+    second: Surfer_Hit-Surfer_Hit53
+  - first:
+      213: 21300170
+    second: Surfer_Hit-Surfer_Hit54
+  - first:
+      213: 21300172
+    second: Surfer_Hit-Surfer_Hit55
+  - first:
+      213: 21300174
+    second: Surfer_Hit-Surfer_Hit56
+  - first:
+      213: 21300176
+    second: Surfer_Hit-Surfer_Hit57
+  - first:
+      213: 21300178
+    second: Surfer_Hit-Surfer_Hit58
+  - first:
+      213: 21300180
+    second: Surfer_Hit-Surfer_Hit59
+  - first:
+      213: 21300182
+    second: Surfer_Hit-Surfer_Hit60
+  - first:
+      213: 21300184
+    second: Surfer_Idle-Surfer_Idle000
+  - first:
+      213: 21300186
+    second: Surfer_Idle-Surfer_Idle001
+  - first:
+      213: 21300188
+    second: Surfer_Idle-Surfer_Idle002
+  - first:
+      213: 21300190
+    second: Surfer_Idle-Surfer_Idle003
+  - first:
+      213: 21300192
+    second: Surfer_Idle-Surfer_Idle004
+  - first:
+      213: 21300194
+    second: Surfer_Idle-Surfer_Idle005
+  - first:
+      213: 21300196
+    second: Surfer_Idle-Surfer_Idle006
+  - first:
+      213: 21300198
+    second: Surfer_Idle-Surfer_Idle007
+  - first:
+      213: 21300200
+    second: Surfer_Idle-Surfer_Idle008
+  - first:
+      213: 21300202
+    second: Surfer_Idle-Surfer_Idle009
+  - first:
+      213: 21300204
+    second: Surfer_Idle-Surfer_Idle010
+  - first:
+      213: 21300206
+    second: Surfer_Idle-Surfer_Idle011
+  - first:
+      213: 21300208
+    second: Surfer_Idle-Surfer_Idle012
+  - first:
+      213: 21300210
+    second: Surfer_Idle-Surfer_Idle013
+  - first:
+      213: 21300212
+    second: Surfer_Idle-Surfer_Idle014
+  - first:
+      213: 21300214
+    second: Surfer_Idle-Surfer_Idle015
+  - first:
+      213: 21300216
+    second: Surfer_Idle-Surfer_Idle016
+  - first:
+      213: 21300218
+    second: Surfer_Idle-Surfer_Idle017
+  - first:
+      213: 21300220
+    second: Surfer_Idle-Surfer_Idle018
+  - first:
+      213: 21300222
+    second: Surfer_Idle-Surfer_Idle019
+  - first:
+      213: 21300224
+    second: Surfer_Idle-Surfer_Idle020
+  - first:
+      213: 21300226
+    second: Surfer_Idle-Surfer_Idle021
+  - first:
+      213: 21300228
+    second: Surfer_Idle-Surfer_Idle022
+  - first:
+      213: 21300230
+    second: Surfer_Idle-Surfer_Idle023
+  - first:
+      213: 21300232
+    second: Surfer_Idle-Surfer_Idle024
+  - first:
+      213: 21300234
+    second: Surfer_Idle-Surfer_Idle025
+  - first:
+      213: 21300236
+    second: Surfer_Idle-Surfer_Idle026
+  - first:
+      213: 21300238
+    second: Surfer_Idle-Surfer_Idle027
+  - first:
+      213: 21300240
+    second: Surfer_Idle-Surfer_Idle028
+  - first:
+      213: 21300242
+    second: Surfer_Idle-Surfer_Idle029
+  - first:
+      213: 21300244
+    second: Surfer_Idle-Surfer_Idle030
+  - first:
+      213: 21300246
+    second: Surfer_Walk-Surfer_Walk060
+  - first:
+      213: 21300248
+    second: Surfer_Walk-Surfer_Walk061
+  - first:
+      213: 21300250
+    second: Surfer_Walk-Surfer_Walk062
+  - first:
+      213: 21300252
+    second: Surfer_Walk-Surfer_Walk063
+  - first:
+      213: 21300254
+    second: Surfer_Walk-Surfer_Walk064
+  - first:
+      213: 21300256
+    second: Surfer_Walk-Surfer_Walk065
+  - first:
+      213: 21300258
+    second: Surfer_Walk-Surfer_Walk066
+  - first:
+      213: 21300260
+    second: Surfer_Walk-Surfer_Walk067
+  - first:
+      213: 21300262
+    second: Surfer_Walk-Surfer_Walk068
+  - first:
+      213: 21300264
+    second: Surfer_Walk-Surfer_Walk069
+  - first:
+      213: 21300266
+    second: Surfer_Walk-Surfer_Walk070
+  - first:
+      213: 21300268
+    second: Surfer_Walk-Surfer_Walk071
+  - first:
+      213: 21300270
+    second: Surfer_Walk-Surfer_Walk072
+  - first:
+      213: 21300272
+    second: Surfer_Walk-Surfer_Walk073
+  - first:
+      213: 21300274
+    second: Surfer_Walk-Surfer_Walk074
+  - first:
+      213: 21300276
+    second: Surfer_Walk-Surfer_Walk075
+  - first:
+      213: 21300278
+    second: Surfer_Walk-Surfer_Walk076
+  - first:
+      213: 21300280
+    second: Surfer_Walk-Surfer_Walk077
+  - first:
+      213: 21300282
+    second: Surfer_Walk-Surfer_Walk078
+  - first:
+      213: 21300284
+    second: Surfer_Walk-Surfer_Walk079
+  - first:
+      213: 21300286
+    second: Surfer_Walk-Surfer_Walk080
+  - first:
+      213: 21300288
+    second: Surfer_Walk-Surfer_Walk081
+  - first:
+      213: 21300290
+    second: Surfer_Walk-Surfer_Walk082
+  - first:
+      213: 21300292
+    second: Surfer_Walk-Surfer_Walk083
+  - first:
+      213: 21300294
+    second: Surfer_Walk-Surfer_Walk084
+  - first:
+      213: 21300296
+    second: Surfer_Walk-Surfer_Walk085
+  - first:
+      213: 21300298
+    second: Surfer_Walk-Surfer_Walk086
+  - first:
+      213: 21300300
+    second: Surfer_Walk-Surfer_Walk087
+  - first:
+      213: 21300302
+    second: Surfer_Walk-Surfer_Walk088
+  - first:
+      213: 21300304
+    second: Surfer_Walk-Surfer_Walk089
+  - first:
+      213: 21300306
+    second: Surfer_Walk-Surfer_Walk090
+  - first:
+      213: 21300308
+    second: Surfer_Walk-Surfer_Walk091
+  - first:
+      213: 21300310
+    second: Surfer_Walk-Surfer_Walk092
+  - first:
+      213: 21300312
+    second: Surfer_Walk-Surfer_Walk093
+  - first:
+      213: 21300314
+    second: Surfer_Walk-Surfer_Walk094
+  - first:
+      213: 21300316
+    second: Surfer_Walk-Surfer_Walk095
+  - first:
+      213: 21300318
+    second: Surfer_Walk-Surfer_Walk096
+  - first:
+      213: 21300320
+    second: Surfer_Walk-Surfer_Walk097
+  - first:
+      213: 21300322
+    second: Surfer_Walk-Surfer_Walk098
+  - first:
+      213: 21300324
+    second: Surfer_Walk-Surfer_Walk099
+  - first:
+      213: 21300326
+    second: Surfer_Walk-Surfer_Walk100
+  - first:
+      213: 21300328
+    second: Surfer_Walk-Surfer_Walk101
+  - first:
+      213: 21300330
+    second: Surfer_Walk-Surfer_Walk102
+  - first:
+      213: 21300332
+    second: Surfer_Walk-Surfer_Walk103
+  - first:
+      213: 21300334
+    second: Surfer_Walk-Surfer_Walk104
+  - first:
+      213: 21300336
+    second: Surfer_Walk-Surfer_Walk105
+  - first:
+      213: 21300338
+    second: Surfer_Walk-Surfer_Walk106
+  - first:
+      213: 21300340
+    second: Surfer_Walk-Surfer_Walk107
+  - first:
+      213: 21300342
+    second: Surfer_Walk-Surfer_Walk108
+  - first:
+      213: 21300344
+    second: Surfer_Walk-Surfer_Walk109
+  - first:
+      213: 21300346
+    second: Surfer_Walk-Surfer_Walk110
+  - first:
+      213: 21300348
+    second: Surfer_Walk-Surfer_Walk111
+  - first:
+      213: 21300350
+    second: Surfer_Walk-Surfer_Walk112
+  - first:
+      213: 21300352
+    second: Surfer_Walk-Surfer_Walk113
+  - first:
+      213: 21300354
+    second: Surfer_Walk-Surfer_Walk114
+  - first:
+      213: 21300356
+    second: Surfer_Walk-Surfer_Walk115
+  - first:
+      213: 21300358
+    second: Surfer_Walk-Surfer_Walk116
+  - first:
+      213: 21300360
+    second: Surfer_Walk-Surfer_Walk117
+  - first:
+      213: 21300362
+    second: Surfer_Walk-Surfer_Walk118
+  - first:
+      213: 21300364
+    second: Surfer_Walk-Surfer_Walk119
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack00
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1652
+        width: 254
+        height: 555
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack01
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1651
+        width: 254
+        height: 555
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack02
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1752
+        width: 254
+        height: 554
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.86823106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack03
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1741
+        width: 254
+        height: 554
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.86823106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack04
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2174
+        width: 254
+        height: 553
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8698011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack05
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2269
+        width: 254
+        height: 552
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8713768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack06
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 2763
+        width: 254
+        height: 550
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack07
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3134
+        width: 257
+        height: 549
+      alignment: 9
+      pivot: {x: 0.40661478, y: 0.87431693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3011
+        width: 260
+        height: 549
+      alignment: 9
+      pivot: {x: 0.4019231, y: 0.87431693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack09
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2959
+        width: 261
+        height: 549
+      alignment: 9
+      pivot: {x: 0.40038314, y: 0.87431693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2959
+        width: 261
+        height: 549
+      alignment: 9
+      pivot: {x: 0.40038314, y: 0.87431693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack11
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2903
+        width: 258
+        height: 549
+      alignment: 9
+      pivot: {x: 0.40503877, y: 0.87431693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack12
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2762
+        width: 254
+        height: 550
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack13
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 2729
+        width: 253
+        height: 550
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.8727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack14
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2209
+        width: 253
+        height: 552
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1852
+        width: 275
+        height: 553
+      alignment: 9
+      pivot: {x: 0.38, y: 0.86799276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack16
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 1473
+        width: 313
+        height: 554
+      alignment: 9
+      pivot: {x: 0.33386582, y: 0.866426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1295
+        width: 346
+        height: 555
+      alignment: 9
+      pivot: {x: 0.3020231, y: 0.8648649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack18
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1093
+        width: 368
+        height: 556
+      alignment: 9
+      pivot: {x: 0.2839674, y: 0.8633093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack19
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 602
+        width: 380
+        height: 558
+      alignment: 9
+      pivot: {x: 0.275, y: 0.86200714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack20
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 532
+        width: 383
+        height: 559
+      alignment: 9
+      pivot: {x: 0.27284595, y: 0.8604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack21
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 497
+        width: 382
+        height: 559
+      alignment: 9
+      pivot: {x: 0.2735602, y: 0.8604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack22
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 370
+        width: 377
+        height: 559
+      alignment: 9
+      pivot: {x: 0.27718833, y: 0.8604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 734
+        width: 366
+        height: 559
+      alignment: 9
+      pivot: {x: 0.28551912, y: 0.8604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack24
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 931
+        width: 350
+        height: 558
+      alignment: 9
+      pivot: {x: 0.29857144, y: 0.86200714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack25
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 913
+        width: 329
+        height: 558
+      alignment: 9
+      pivot: {x: 0.3176292, y: 0.86200714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack26
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1058
+        width: 307
+        height: 557
+      alignment: 9
+      pivot: {x: 0.3403909, y: 0.8635548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack27
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1155
+        width: 287
+        height: 556
+      alignment: 9
+      pivot: {x: 0.3641115, y: 0.8651079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack28
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1617
+        width: 269
+        height: 555
+      alignment: 9
+      pivot: {x: 0.38847584, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack29
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1491
+        width: 257
+        height: 555
+      alignment: 9
+      pivot: {x: 0.40661478, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Attack-Surfer_Attack30
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1195
+        width: 254
+        height: 555
+      alignment: 9
+      pivot: {x: 0.41141734, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit00
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 6517
+        width: 264
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8745387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 66
+        width: 254
+        height: 564
+      alignment: 9
+      pivot: {x: 0.35629922, y: 0.8546099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit02
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2
+        width: 247
+        height: 588
+      alignment: 9
+      pivot: {x: 0.24089068, y: 0.835034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit03
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 15
+        width: 351
+        height: 585
+      alignment: 9
+      pivot: {x: 0.37464386, y: 0.82735044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit04
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 59
+        width: 421
+        height: 560
+      alignment: 9
+      pivot: {x: 0.40023753, y: 0.8214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4109
+        width: 468
+        height: 539
+      alignment: 9
+      pivot: {x: 0.39636752, y: 0.7940631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit06
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 4412
+        width: 514
+        height: 534
+      alignment: 9
+      pivot: {x: 0.39785993, y: 0.7378277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit07
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 4478
+        width: 555
+        height: 522
+      alignment: 9
+      pivot: {x: 0.40810812, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit08
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 4547
+        width: 590
+        height: 501
+      alignment: 9
+      pivot: {x: 0.4279661, y: 0.6487026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit09
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 4603
+        width: 614
+        height: 470
+      alignment: 9
+      pivot: {x: 0.45032573, y: 0.6148936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4650
+        width: 628
+        height: 432
+      alignment: 9
+      pivot: {x: 0.4705414, y: 0.587963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit11
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 4948
+        width: 632
+        height: 388
+      alignment: 9
+      pivot: {x: 0.48655063, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit12
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 5002
+        width: 631
+        height: 342
+      alignment: 9
+      pivot: {x: 0.49524564, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5740
+        width: 628
+        height: 301
+      alignment: 9
+      pivot: {x: 0.49761146, y: 0.56478405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit14
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 6032
+        width: 618
+        height: 297
+      alignment: 9
+      pivot: {x: 0.4975728, y: 0.6329966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 6043
+        width: 606
+        height: 296
+      alignment: 9
+      pivot: {x: 0.49587458, y: 0.7027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit16
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 6027
+        width: 594
+        height: 297
+      alignment: 9
+      pivot: {x: 0.49410775, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit17
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 5407
+        width: 587
+        height: 313
+      alignment: 9
+      pivot: {x: 0.4914821, y: 0.76677316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit18
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 5338
+        width: 582
+        height: 323
+      alignment: 9
+      pivot: {x: 0.49054983, y: 0.7894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 5084
+        width: 577
+        height: 329
+      alignment: 9
+      pivot: {x: 0.4930676, y: 0.8206687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit20
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 5050
+        width: 573
+        height: 331
+      alignment: 9
+      pivot: {x: 0.4982548, y: 0.85800606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit21
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 5075
+        width: 569
+        height: 330
+      alignment: 9
+      pivot: {x: 0.50351495, y: 0.9060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5097
+        width: 566
+        height: 327
+      alignment: 9
+      pivot: {x: 0.50795054, y: 0.9571865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit23
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 5346
+        width: 563
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5106572, y: 1.015528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit24
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5383
+        width: 559
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5089446, y: 1.0822785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5426
+        width: 556
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5044964, y: 1.1506411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit26
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 5663
+        width: 552
+        height: 308
+      alignment: 9
+      pivot: {x: 0.4990942, y: 1.224026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit27
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 5701
+        width: 547
+        height: 305
+      alignment: 9
+      pivot: {x: 0.49268737, y: 1.295082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5757
+        width: 543
+        height: 301
+      alignment: 9
+      pivot: {x: 0.48526704, y: 1.3687707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit29
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 6008
+        width: 540
+        height: 297
+      alignment: 9
+      pivot: {x: 0.4787037, y: 1.4410775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit30
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 5978
+        width: 537
+        height: 297
+      alignment: 9
+      pivot: {x: 0.47206703, y: 1.4882154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit31
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 5729
+        width: 535
+        height: 301
+      alignment: 9
+      pivot: {x: 0.46635514, y: 1.5083057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit32
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 5670
+        width: 534
+        height: 306
+      alignment: 9
+      pivot: {x: 0.46348315, y: 1.5196079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5444
+        width: 538
+        height: 311
+      alignment: 9
+      pivot: {x: 0.46375465, y: 1.5144695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit34
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 5415
+        width: 550
+        height: 312
+      alignment: 9
+      pivot: {x: 0.46636364, y: 1.5096154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit35
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 5722
+        width: 567
+        height: 303
+      alignment: 9
+      pivot: {x: 0.4717813, y: 1.5412542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6060
+        width: 584
+        height: 280
+      alignment: 9
+      pivot: {x: 0.47688356, y: 1.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit37
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 6277
+        width: 598
+        height: 244
+      alignment: 9
+      pivot: {x: 0.48076922, y: 1.8483607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit38
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 6307
+        width: 605
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48181817, y: 2.1168225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6342
+        width: 611
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48036006, y: 2.3897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit40
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 6534
+        width: 613
+        height: 180
+      alignment: 9
+      pivot: {x: 0.47879282, y: 2.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit41
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 6523
+        width: 614
+        height: 187
+      alignment: 9
+      pivot: {x: 0.47801304, y: 2.5882354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit42
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 6523
+        width: 614
+        height: 187
+      alignment: 9
+      pivot: {x: 0.47801304, y: 2.5989306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit43
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 6530
+        width: 613
+        height: 183
+      alignment: 9
+      pivot: {x: 0.4771615, y: 2.6612022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit44
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 6341
+        width: 613
+        height: 191
+      alignment: 9
+      pivot: {x: 0.4771615, y: 2.6282723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit45
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 6326
+        width: 614
+        height: 195
+      alignment: 9
+      pivot: {x: 0.47801304, y: 2.6358974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 6331
+        width: 614
+        height: 192
+      alignment: 9
+      pivot: {x: 0.4796417, y: 2.7083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit47
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 6525
+        width: 613
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48042414, y: 2.8162162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6539
+        width: 611
+        height: 177
+      alignment: 9
+      pivot: {x: 0.48199672, y: 2.9152544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit49
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 6888
+        width: 611
+        height: 171
+      alignment: 9
+      pivot: {x: 0.48199672, y: 2.9824562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit50
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 6891
+        width: 610
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4827869, y: 3.0059524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit51
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 6892
+        width: 610
+        height: 167
+      alignment: 9
+      pivot: {x: 0.4827869, y: 3.0059881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit52
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 6892
+        width: 610
+        height: 167
+      alignment: 9
+      pivot: {x: 0.4827869, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6894
+        width: 610
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4827869, y: 3.0484848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit54
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 6891
+        width: 611
+        height: 168
+      alignment: 9
+      pivot: {x: 0.48199672, y: 3.017857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6718
+        width: 612
+        height: 172
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9709303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit56
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6716
+        width: 612
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit57
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 6715
+        width: 612
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit58
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 6715
+        width: 612
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit59
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 6712
+        width: 612
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Hit-Surfer_Hit60
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 6712
+        width: 612
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48120916, y: 2.9482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle000
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 5973
+        width: 264
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88745385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle001
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 4794
+        width: 264
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88745385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle002
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4058
+        width: 264
+        height: 543
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8858195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle003
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3960
+        width: 264
+        height: 544
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8860294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle004
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 3865
+        width: 264
+        height: 545
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88440365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle005
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3510
+        width: 264
+        height: 546
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8827839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle006
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3510
+        width: 265
+        height: 546
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.8827839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle007
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3401
+        width: 265
+        height: 547
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.88117003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle008
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 3315
+        width: 265
+        height: 548
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.879562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle009
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 3314
+        width: 265
+        height: 548
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.879562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle010
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2850
+        width: 264
+        height: 549
+      alignment: 9
+      pivot: {x: 0.4223485, y: 0.8779599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle011
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2601
+        width: 265
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.8781818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle012
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 2582
+        width: 265
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.8781818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle013
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2350
+        width: 265
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.87658805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle014
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2308
+        width: 265
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.87658805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle015
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2279
+        width: 265
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.87658805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle016
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 2048
+        width: 265
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.87658805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle017
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 2029
+        width: 265
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.87658805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle018
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2407
+        width: 265
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.8781818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle019
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2407
+        width: 265
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.8781818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle020
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2832
+        width: 265
+        height: 549
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.8797814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle021
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 3281
+        width: 266
+        height: 548
+      alignment: 9
+      pivot: {x: 0.42293233, y: 0.8813869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle022
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 3153
+        width: 265
+        height: 548
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.8813869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle023
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3383
+        width: 265
+        height: 547
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.88299817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle024
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3454
+        width: 265
+        height: 546
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.88461536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3562
+        width: 265
+        height: 545
+      alignment: 9
+      pivot: {x: 0.42075473, y: 0.8862385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle026
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3950
+        width: 264
+        height: 544
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8860294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle027
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3932
+        width: 264
+        height: 544
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.8860294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle028
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 4058
+        width: 264
+        height: 543
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88766116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle029
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 4506
+        width: 264
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88745385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Idle-Surfer_Idle030
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 4250
+        width: 264
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4185606, y: 0.88745385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk060
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1238
+        width: 253
+        height: 555
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk061
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1723
+        width: 255
+        height: 554
+      alignment: 9
+      pivot: {x: 0.41764706, y: 0.866426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk062
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1713
+        width: 254
+        height: 554
+      alignment: 9
+      pivot: {x: 0.41929135, y: 0.866426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk063
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1852
+        width: 254
+        height: 553
+      alignment: 9
+      pivot: {x: 0.41929135, y: 0.8661845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk064
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1795
+        width: 253
+        height: 553
+      alignment: 9
+      pivot: {x: 0.41699606, y: 0.8661845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk065
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 2208
+        width: 252
+        height: 552
+      alignment: 9
+      pivot: {x: 0.41468254, y: 0.865942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk066
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2297
+        width: 249
+        height: 551
+      alignment: 9
+      pivot: {x: 0.40763053, y: 0.86569875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk067
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2459
+        width: 247
+        height: 550
+      alignment: 9
+      pivot: {x: 0.402834, y: 0.86545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk068
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2861
+        width: 244
+        height: 549
+      alignment: 9
+      pivot: {x: 0.3954918, y: 0.86520946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk069
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3382
+        width: 239
+        height: 548
+      alignment: 9
+      pivot: {x: 0.3870293, y: 0.86496353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk070
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3412
+        width: 235
+        height: 546
+      alignment: 9
+      pivot: {x: 0.37659574, y: 0.8644689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk071
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 3703
+        width: 231
+        height: 545
+      alignment: 9
+      pivot: {x: 0.36580086, y: 0.8642202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk072
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3932
+        width: 227
+        height: 544
+      alignment: 9
+      pivot: {x: 0.35462555, y: 0.8639706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk073
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 4058
+        width: 221
+        height: 543
+      alignment: 9
+      pivot: {x: 0.34162897, y: 0.86372006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk074
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 4002
+        width: 217
+        height: 543
+      alignment: 9
+      pivot: {x: 0.32949308, y: 0.86372006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk075
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 4002
+        width: 212
+        height: 543
+      alignment: 9
+      pivot: {x: 0.31839624, y: 0.86372006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk076
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3866
+        width: 207
+        height: 544
+      alignment: 9
+      pivot: {x: 0.30193236, y: 0.8639706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk077
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 3864
+        width: 201
+        height: 546
+      alignment: 9
+      pivot: {x: 0.28606966, y: 0.8644689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk078
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 3685
+        width: 194
+        height: 548
+      alignment: 9
+      pivot: {x: 0.26030928, y: 0.86496353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk079
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4496
+        width: 187
+        height: 552
+      alignment: 9
+      pivot: {x: 0.23262031, y: 0.865942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk080
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 4392
+        width: 186
+        height: 554
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.86823106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk081
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 4235
+        width: 186
+        height: 557
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.8689408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk082
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1864
+        width: 187
+        height: 560
+      alignment: 9
+      pivot: {x: 0.23262031, y: 0.86964285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk083
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 175
+        width: 188
+        height: 562
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.87010676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk084
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 161
+        width: 188
+        height: 563
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.8703375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk085
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 122
+        width: 190
+        height: 563
+      alignment: 9
+      pivot: {x: 0.23421052, y: 0.8703375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk086
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 111
+        width: 190
+        height: 563
+      alignment: 9
+      pivot: {x: 0.23421052, y: 0.8703375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk087
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 170
+        width: 191
+        height: 562
+      alignment: 9
+      pivot: {x: 0.23298429, y: 0.87010676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk088
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1289
+        width: 191
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23298429, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk089
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3548
+        width: 194
+        height: 559
+      alignment: 9
+      pivot: {x: 0.22938144, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk090
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3497
+        width: 197
+        height: 559
+      alignment: 9
+      pivot: {x: 0.22588833, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk091
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2987
+        width: 198
+        height: 559
+      alignment: 9
+      pivot: {x: 0.21969697, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk092
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2936
+        width: 198
+        height: 559
+      alignment: 9
+      pivot: {x: 0.21969697, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk093
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2880
+        width: 197
+        height: 559
+      alignment: 9
+      pivot: {x: 0.22081219, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk094
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3441
+        width: 194
+        height: 559
+      alignment: 9
+      pivot: {x: 0.2242268, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk095
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2426
+        width: 191
+        height: 559
+      alignment: 9
+      pivot: {x: 0.22774869, y: 0.8711986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk096
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1250
+        width: 188
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk097
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1189
+        width: 188
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk098
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 739
+        width: 187
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23262031, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk099
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 726
+        width: 186
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk100
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 687
+        width: 186
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23387097, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk101
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 632
+        width: 187
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23262031, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk102
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 626
+        width: 187
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23262031, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk103
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 621
+        width: 188
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.86987525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk104
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1813
+        width: 188
+        height: 560
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.86964285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk105
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1757
+        width: 188
+        height: 560
+      alignment: 9
+      pivot: {x: 0.23138298, y: 0.86964285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk106
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 3831
+        width: 189
+        height: 559
+      alignment: 9
+      pivot: {x: 0.23015873, y: 0.8694097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk107
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2375
+        width: 189
+        height: 559
+      alignment: 9
+      pivot: {x: 0.23015873, y: 0.8694097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk108
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2319
+        width: 190
+        height: 559
+      alignment: 9
+      pivot: {x: 0.23421052, y: 0.8694097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk109
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1302
+        width: 191
+        height: 560
+      alignment: 9
+      pivot: {x: 0.23298429, y: 0.86785716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk110
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 592
+        width: 191
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23298429, y: 0.8680927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk111
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 350
+        width: 192
+        height: 561
+      alignment: 9
+      pivot: {x: 0.23697917, y: 0.8680927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 201
+        height: 561
+      alignment: 9
+      pivot: {x: 0.26616916, y: 0.8680927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 209
+        height: 560
+      alignment: 9
+      pivot: {x: 0.2942584, y: 0.86785716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk114
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 676
+        width: 218
+        height: 560
+      alignment: 9
+      pivot: {x: 0.3233945, y: 0.86785716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk115
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1162
+        width: 226
+        height: 559
+      alignment: 9
+      pivot: {x: 0.34734514, y: 0.86762077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1341
+        width: 234
+        height: 558
+      alignment: 9
+      pivot: {x: 0.3696581, y: 0.86738354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk117
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2823
+        width: 240
+        height: 557
+      alignment: 9
+      pivot: {x: 0.38541666, y: 0.8671454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1901
+        width: 246
+        height: 556
+      alignment: 9
+      pivot: {x: 0.4004065, y: 0.86690646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surfer_Walk-Surfer_Walk119
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1184
+        width: 250
+        height: 555
+      alignment: 9
+      pivot: {x: 0.41, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
